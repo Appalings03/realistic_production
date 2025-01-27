@@ -1,0 +1,11 @@
+{
+    "name": "test",
+    "version": "0.0.1",
+    "title": "Mod test for Factorio",
+    "author": "Appalings03",
+    "factorio_version": "2.0",
+    "contact": "@Appalings03",
+    "homepage": "https://github.com/Appalings03/test_0.0.1.git",
+    "description": "Mod test for Factorio",
+    "dependencie": "None"
+}
