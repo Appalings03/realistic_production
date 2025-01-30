@@ -1,0 +1,1 @@
+-- gold.lua created automatically
