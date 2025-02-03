@@ -6,6 +6,7 @@ local actinium_ore = {
     icon = globals.graphics.path.."actinium_ore.png",
     icon_size = 32,
     subgroup = "raw-ressource",
+    
 }
 
 data:extend({
